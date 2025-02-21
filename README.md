@@ -17,3 +17,6 @@ Interactive Gallery: High-quality images and 360-degree views of watches to show
 
 render link:-
 https://s69-loww.onrender.com
+
+netlify link:-
+https://loww.netlify.app/
